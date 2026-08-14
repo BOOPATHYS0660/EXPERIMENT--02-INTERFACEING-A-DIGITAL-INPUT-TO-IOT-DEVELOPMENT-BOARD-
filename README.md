@@ -1,4 +1,4 @@
-###  DATE: 14/
+###  DATE: 14/08/2026
 
 ###  NAME: Boopathy S
 ###  ROLL NO : 2305003002
@@ -302,8 +302,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
  
  <img width="1200" height="1600" alt="WhatsApp Image 2026-08-14 at 8 40 16 AM" src="https://github.com/user-attachments/assets/7b12275d-d839-4d45-ae1e-451f5704c2cc" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-14 at 8 40 16 AM (1)" src="https://github.com/user-attachments/assets/22b12e38-6dc5-4d21-bb76-e0b093393929" />
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-08-14 at 8 40 16 AM" src="https://github.com/user-attachments/assets/91415841-5475-4f0d-845c-7145ef187044" />
   
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
